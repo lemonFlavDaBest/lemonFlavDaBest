@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @lemonFlavDaBest. Full stack developer
-- 👀 I’m interested in building web3 dapps.
+- 👋 Hi, I’m @lemonFlavDaBest.
 
-_ I'd like to build tools for other developers and contribute to open source. 
-
+- Read me in progress.....
 
