@@ -1,5 +1,8 @@
-- Hi, I’m @lemonFlavDaBest. Full stack developer.
-- 
+Hi, I’m @lemonFlavDaBest. Full stack developer.
 
-- Code I'm Working On: Rust, data, and crypto stuff mostly.
+
+Love to code. Love to build. Love open source. 
+
+
+Code I'm Working On: Rust, data, and crypto stuff mostly.
 
