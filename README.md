@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @lemonFlavDaBest.
+- Hi, I’m @lemonFlavDaBest. Full stack developer.
+- 
 
-- Read me in progress.....
+- Code I'm Working On: Rust, data, and crypto stuff mostly.
 
