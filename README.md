@@ -6,5 +6,7 @@ Love to build.
 Love open source. 
 
 
-Code I'm Working On: Rust, data, and crypto stuff mostly.
+Code I'm Working On: Rust, data, and crypto stuff.
 
+
+Positivity. 
